@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/92ba1c39-21a8-4320-992e-736efe43ac0e" />
+
 # AgentFlow — AI-Powered Business Assistant
 
 AgentFlow is an intelligent business assistant powered by AI agents and Google's Gemini API. It enables users to interact with business data through natural language, retrieve customer and order information, and prepare customer notifications with a human approval workflow.
